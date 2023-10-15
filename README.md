@@ -1,5 +1,5 @@
 # FastForward Assets
-The respective authors of all files in this repository have, to the extent possible under law, waived all copyright and related or neighboring rights to the files.
+All files under [**logo**](/logo) and [**Logo_New**](/Logo_New) are under CC0, while the logos in the [**ext**](/ext) directory are the properties of their respective owners.
 
 Following is a human-readable summary of the [Legal Code (read the full text).](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
